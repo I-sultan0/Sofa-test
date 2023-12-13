@@ -60,6 +60,9 @@ nav {
   z-index: -1;
   display: grid;
   place-items: center;
+  height: 100%;
+  width: 100%;
+  overflow-y: scroll;
   /* border: 1px solid black; */
   /* width: 80%; */
 }
@@ -69,6 +72,7 @@ nav {
   /* border: 1px solid black; */
   align-items: center;
   text-align: center;
+  margin-top: 80px;
 }
 .menu ul li a {
   text-decoration: none;
