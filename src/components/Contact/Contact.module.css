@@ -1,0 +1,71 @@
+.contactUs {
+  /* background: rgba(45, 41, 40, 1); */
+  /* color: white; */
+  /* border: 1px solid black; */
+  width: 90%;
+  margin: 3% auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 60px;
+  align-items: center;
+}
+
+.contactForm {
+  text-align: center;
+}
+.heading {
+  font-size: 36px;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 15px;
+  text-decoration: underline;
+}
+.contactUs p {
+  width: 80%;
+  margin: 0 auto 20px auto;
+}
+.contactUs form {
+  border: 1px solid black;
+  text-align: center;
+  border-radius: 8px;
+}
+.contactUs input,
+.contactUs textarea {
+  display: block;
+  margin: 30px auto;
+  padding: 10px;
+  /* border: none; */
+  width: 320px;
+  /* background-color: #535453; */
+}
+
+.clientService img {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  background-size: cover;
+}
+
+.contactUs button {
+  /* background-color: #ff4141; */
+  background-color: #ba8c63;
+  border: none;
+  color: white;
+  font-weight: bold;
+  width: 300px;
+  padding: 10px;
+  margin: 15px;
+  border-radius: 14px;
+}
+
+@media screen and (max-width: 768px) {
+  .contactUs p {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .contactUs button {
+    width: 150px;
+  }
+}

@@ -1,0 +1,139 @@
+/* ---------------- Navbar and burger menu ------------------ */
+nav {
+  height: 5em;
+  /* border: 1px solid black; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.logoName {
+  /* border: 1px solid black; */
+  width: 280px;
+}
+.logoName a {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  text-decoration: none;
+}
+.logoName h2 {
+  /* border: 1px solid black; */
+  color: black;
+  display: inline;
+}
+.logoName img {
+  width: 60px;
+  height: 60px;
+}
+.burger_menu {
+  height: 40%;
+  width: 4em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  /* border: 1px solid black; */
+  /* margin: auto; */
+}
+
+.burger_icon {
+  width: 2.5em;
+  height: 0.35em;
+  background-color: #ba8c63;
+  border-radius: 0.5em;
+}
+
+.menu {
+  background-image: linear-gradient(
+    to right top,
+    #ba8c63,
+    #b27b53,
+    #aa6b44,
+    #a25a37,
+    #99482c
+  );
+  /* background-color: #ba8c63; */
+  position: absolute;
+  top: 0;
+  z-index: -1;
+  display: grid;
+  place-items: center;
+  /* border: 1px solid black; */
+  /* width: 80%; */
+}
+.menu ul {
+  /* margin-top: 60%; */
+  list-style: none;
+  /* border: 1px solid black; */
+  align-items: center;
+  text-align: center;
+}
+.menu ul li a {
+  text-decoration: none;
+  color: black;
+}
+.menu ul li {
+  font-size: 24px;
+  /* font-weight: bold; */
+  cursor: pointer;
+  margin: 15px 0;
+}
+
+@media screen and (max-width: 768px) {
+  .items ul {
+    padding-left: 0px;
+  }
+  .items ul li {
+    margin: 0 5px;
+    padding: 3px 5px;
+    font-size: 12px;
+    /* border: 1px solid black; */
+    width: 65px;
+  }
+}
+
+.nav {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+  /* border: 1px solid black; */
+}
+
+.items {
+  margin: 0 auto;
+  width: 80%;
+  margin: 15px auto;
+}
+
+.items ul {
+  display: flex;
+  justify-content: space-evenly;
+  width: 80%;
+  margin: 0 auto;
+}
+.items ul li {
+  list-style: none;
+  margin: 0 15px;
+  padding: 5px 8px;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.items ul li a {
+  text-decoration: none;
+  color: white;
+  color: black;
+}
+.items ul li a:active,
+.items a.active,
+.items a:hover {
+  /* color: black; */
+  padding-bottom: 0.25rem;
+  border-bottom: 2px solid #fe0000;
+}
