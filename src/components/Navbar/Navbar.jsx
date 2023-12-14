@@ -97,7 +97,7 @@ const Navbar = () => {
               }
               to="/lshapehydraulic"
             >
-              L Shape Hydrolic Sofa Cum Bed
+              Hydraulic Sofa
             </NavLink>
           </li>
           <li onClick={updateMenu}>
@@ -107,7 +107,7 @@ const Navbar = () => {
               }
               to="/isofa"
             >
-              I Shape Sofa
+              U Shape Sofa
             </NavLink>
           </li>
           <li onClick={updateMenu}>
@@ -199,7 +199,7 @@ const Navbar = () => {
                 TV Cabinet
               </NavLink>
             </li>
-            {/* <li onClick={updateMenu}>
+            <li onClick={updateMenu}>
               <NavLink
                 className={(navigationData) =>
                   navigationData.isActive ? classes.active : null
@@ -208,7 +208,7 @@ const Navbar = () => {
               >
                 Boss Chair
               </NavLink>
-            </li> */}
+            </li>
             <li onClick={updateMenu}>
               <NavLink
                 className={(navigationData) =>

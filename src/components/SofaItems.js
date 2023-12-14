@@ -109,6 +109,14 @@ import CarbonSofaImg5 from "../assets/CarbonSofa/5.webp";
 import CarbonSofaImg6 from "../assets/CarbonSofa/6.webp";
 import CarbonSofaImg7 from "../assets/CarbonSofa/7.webp";
 
+import BossChairImg1 from "../assets/BossChair/1.png";
+import BossChairImg2 from "../assets/BossChair/2.jpeg";
+import BossChairImg3 from "../assets/BossChair/3.jpeg";
+import BossChairImg4 from "../assets/BossChair/4.jpeg";
+import BossChairImg5 from "../assets/BossChair/5.jpeg";
+import BossChairImg6 from "../assets/BossChair/6.jpeg";
+import BossChairImg7 from "../assets/BossChair/7.jpeg";
+
 export const HomeGallery = [
   {
     key: 1,
@@ -197,19 +205,25 @@ export const HomeGallery = [
     image: CarbonSofaImg1,
     link: "/carbonsofa",
   },
+  {
+    key: 15,
+    id: "Boss Chair",
+    image: BossChairImg1,
+    link: "/bosschair",
+  },
 ];
 
 export const SofaItem1 = [
   {
     key: 1,
-    text: "Elevate your home's aesthetic with our exquisite contemporary sectional sofa, a perfect blend of style and comfort. Crafted with precision and attention to detail, this sofa boasts a sleek design that seamlessly integrates into modern living spaces. The plush, high-density foam cushions provide unparalleled comfort, while the premium upholstery ensures durability and easy maintenance.    Our sectional sofa is not just a piece of furniture; it's a statement of luxury and sophistication. Whether you're entertaining guests or enjoying a cozy night in, this sofa offers versatile seating options and a touch of opulence to your home. Explore the epitome of modern living with our luxurious contemporary sectional sofa – where comfort meets chic design.",
+    text: "Enhance your home's style and comfort with our meticulously crafted contemporary sectional sofa. Its sleek design seamlessly fits modern living spaces, and the high-density foam cushions offer unmatched comfort. The premium upholstery ensures durability and easy maintenance. More than just furniture, it's a statement of luxury and sophistication, providing versatile seating options and a touch of opulence for any occasion. Experience modern living at its finest with our luxurious sectional sofa – where comfort meets chic design.",
     image: Sofa5,
   },
 ];
 export const SofaItem2 = [
   {
     key: 2,
-    text: "Introducing our timeless Chesterfield sofa, a symbol of enduring elegance and unparalleled craftsmanship. Meticulously handcrafted with attention to detail, this sofa features the iconic tufted design and rolled arms that define the classic Chesterfield style. The rich upholstery, available in a variety of colors and textures, adds a touch of sophistication to any room.    Sink into the deep, plush cushions and experience the comfort that stands the test of time. The sturdy hardwood frame ensures longevity, making this Chesterfield sofa a true investment in both style and durability. Transform your living space into a haven of timeless charm with our classic Chesterfield sofa – a fusion of tradition and comfort.",
+    text: "Introducing our Chesterfield sofa – a timeless symbol of enduring elegance and craftsmanship. Handcrafted with meticulous attention, it features the iconic tufted design and rolled arms that define the classic style. The rich upholstery, in various colors and textures, adds sophistication. Sink into the plush cushions and experience lasting comfort. The sturdy hardwood frame ensures durability, making it a true investment in style. Transform your space with our classic Chesterfield sofa – a fusion of tradition and comfort.",
     image: Sofa6,
   },
 ];
@@ -407,6 +421,22 @@ export const CarbonSofa2 = [
     key: 2,
     text: "Experience the epitome of conscious comfort with our organic latex mattress, a sustainable luxury designed for eco-conscious sleepers. This mattress is crafted from natural latex, free from harmful chemicals, and features an organic cotton cover for a soft and breathable feel. The responsive latex provides optimal support, promoting a comfortable and healthy sleep environment. Choose a mattress that aligns with your values and comfort needs – our organic latex mattress, where sustainable luxury meets conscious living.",
     image: CarbonSofaImg3,
+  },
+];
+
+export const BossChair1 = [
+  {
+    key: 1,
+    text: "Transform your sleep experience with our luxury memory foam mattress, a haven of indulgent comfort crafted for restful nights. This mattress contours to your body, providing personalized support and relieving pressure points. The premium memory foam technology ensures a blissful night's sleep, while the breathable cover enhances airflow for a cool and refreshing rest. Upgrade your bedroom sanctuary with our luxury memory foam mattress – where comfort meets rejuvenation.",
+    image: BossChairImg2,
+  },
+];
+
+export const BossChair2 = [
+  {
+    key: 2,
+    text: "Experience the epitome of conscious comfort with our organic latex mattress, a sustainable luxury designed for eco-conscious sleepers. This mattress is crafted from natural latex, free from harmful chemicals, and features an organic cotton cover for a soft and breathable feel. The responsive latex provides optimal support, promoting a comfortable and healthy sleep environment. Choose a mattress that aligns with your values and comfort needs – our organic latex mattress, where sustainable luxury meets conscious living.",
+    image: BossChairImg3,
   },
 ];
 
@@ -743,5 +773,29 @@ export const CarbonSofaGallery = [
     key: 4,
     id: "Carbon Sofa 7",
     image: CarbonSofaImg7,
+  },
+];
+
+export const BossChairGallery = [
+  {
+    key: 1,
+    id: "Boss Chair 4",
+    image: BossChairImg4,
+  },
+
+  {
+    key: 2,
+    id: "Boss Chair 5",
+    image: BossChairImg5,
+  },
+  {
+    key: 3,
+    id: "Boss Chair 6",
+    image: BossChairImg6,
+  },
+  {
+    key: 4,
+    id: "Boss Chair 7",
+    image: BossChairImg7,
   },
 ];

@@ -53,16 +53,19 @@ const Footer = () => {
               <p>L Shape Sofa</p>
             </Link>
             <Link to="lshapehydraulic">
-              <p>L Shape Hydrolic Sofa Cum Bed</p>
+              <p>Hydraulic Sofa</p>
             </Link>
             <Link to="/isofa">
-              <p>I Shape Sofa</p>
+              <p>U Shape Sofa</p>
             </Link>
             <Link to="/officechair">
               <p>Office Chair</p>
             </Link>
             <Link to="/highbackchair">
               <p>High Back Chair</p>
+            </Link>
+            <Link to="/tvcabinet">
+              <p>TV Cabinet</p>
             </Link>
           </div>
           <div className={classes.items2}>
@@ -84,6 +87,12 @@ const Footer = () => {
             </Link>
             <Link to="/mattress">
               <p>Mattress</p>
+            </Link>
+            <Link to="/carbonsofa">
+              <p>Carbon Sofa</p>
+            </Link>
+            <Link to="/boss chair">
+              <p>Boss Chair</p>
             </Link>
           </div>
         </div>
