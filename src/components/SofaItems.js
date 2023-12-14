@@ -216,14 +216,14 @@ export const HomeGallery = [
 export const SofaItem1 = [
   {
     key: 1,
-    text: "Elevate your home with our sleek contemporary sectional sofa, blending style and comfort. High-density foam cushions provide unmatched relaxation, and premium upholstery ensures durability. Experience modern luxury with versatile seating options – where comfort meets chic design.",
+    text: "Elevate your home with our sleek contemporary sectional sofa of Meghuni Wood, blending style and comfort. 40 density foam cushions provide unmatched relaxation, washable fabric and premium upholstery ensures durability. Experience modern luxury with versatile seating options – where comfort meets chic design.",
     image: Sofa5,
   },
 ];
 export const SofaItem2 = [
   {
     key: 2,
-    text: "Introducing our Chesterfield sofa – a timeless symbol of enduring elegance and craftsmanship. Handcrafted with meticulous attention, it features the iconic tufted design and plush cushions for lasting comfort. Transform your space with our classic Chesterfield sofa – a fusion of tradition and comfort.",
+    text: "Introducing our Chesterfield sofa – a timeless symbol of enduring elegance and craftsmanship with Meghuni Wood. Handcrafted with meticulous attention, washable fabric and leather, it features the iconic tufted design and plush cushions for lasting comfort. Transform your space with our classic Chesterfield sofa – a fusion of tradition and comfort.",
     image: Sofa6,
   },
 ];
@@ -231,14 +231,14 @@ export const SofaItem2 = [
 export const LSofa1 = [
   {
     key: 1,
-    text: "Upgrade your living space with our sleek L-shape sectional sofa, blending style and comfort. Plush, high-resilience foam cushions provide optimal support, and premium upholstery ensures durability. The trendy L-shape design maximizes seating space, making it perfect for entertaining or lounging in style.",
+    text: "Upgrade your living space with our sleek L-shape sectional sofa made of Meghuni Wood, blending style and comfort. Plush, high-resilience with 40 density foam cushions with sweat fabric provide optimal support, and premium upholstery ensures durability. The trendy L-shape design maximizes seating space, making it perfect for entertaining or lounging in style.",
     image: LShapeSofa5,
   },
 ];
 export const LSofa2 = [
   {
     key: 2,
-    text: "Introducing our classic L-shape Chesterfield sofa, seamlessly blending traditional elegance with a modern twist. Meticulously handcrafted with the iconic tufted design and rolled arms, it adds sophistication to any contemporary space. Immerse yourself in luxurious comfort with deep, plush cushions on a sturdy hardwood frame, redefining your home's aesthetic.",
+    text: "Introducing our classic L-shape Chesterfield sofa, seamlessly blending traditional elegance with a modern twist. Meticulously handcrafted with the iconic tufted design and rolled arms, it adds sophistication to any contemporary space. Immerse yourself in luxurious comfort with deep, plush cushions with washable fabric on a sturdy hardwood frame, redefining your home's aesthetic.",
     image: LShapeSofa6,
   },
 ];
@@ -246,14 +246,14 @@ export const LSofa2 = [
 export const HydraulicSofa1 = [
   {
     key: 1,
-    text: "Introducing our innovative hydraulic lift recliner sofa for contemporary living. Experience unmatched relaxation with its adjustable reclining positions and plush memory foam cushions. Crafted with precision, this sofa combines functionality with a sleek aesthetic, elevating your lounging experience.",
+    text: "Introducing our innovative hydraulic lift recliner sofa for contemporary living. Experience unmatched relaxation with its adjustable reclining positions and plush memory with 40 density foam cushions. Crafted with precision, this sofa combines functionality with a sleek aesthetic, elevating your lounging experience.",
     image: HydraulicSofaImg2,
   },
 ];
 export const HydraulicSofa2 = [
   {
     key: 2,
-    text: "Transform your space with our hydraulic L-shape sectional sofa, blending futuristic design and personalized comfort. The hydraulic lift allows dynamic seating configurations, while sleek lines and premium upholstery define contemporary luxury. Experience the future of furniture with our cutting-edge hydraulic L-shape sectional sofa.",
+    text: "Transform your space with our hydraulic L-shape sectional sofa, blending futuristic design and personalized comfort. The hydraulic lift allows dynamic seating configurations, washabale fabric, sweat fabric while sleek lines and premium upholstery define contemporary luxury. Experience the future of furniture with our cutting-edge hydraulic L-shape sectional sofa.",
     image: HydraulicSofaImg3,
   },
 ];
@@ -261,14 +261,14 @@ export const HydraulicSofa2 = [
 export const ISofa1 = [
   {
     key: 1,
-    text: "Elevate your living space with our modern U-shape sofa, embodying sleek simplicity and maximum style. The U-Shape design adds a contemporary touch, making it a versatile centerpiece for modern interiors. Crafted with precision and premium upholstery, this sofa is a statement of modern elegance, offering a perfect blend of simplicity and style for any occasion.",
+    text: "Elevate your living space with our modern U-shape sofa made of Meghuni Wood, embodying sleek simplicity and maximum style. The U-Shape design adds a contemporary touch, making it a versatile centerpiece for modern interiors. Crafted with precision and premium upholstery, this sofa is a statement of modern elegance, offering a perfect blend of simplicity and style for any occasion.",
     image: USofaImg5,
   },
 ];
 export const ISofa2 = [
   {
     key: 2,
-    text: "Introducing our U-shape sectional sofa, a fusion of tailored comfort and trendsetting design for modern living spaces. Immerse yourself in the luxurious feel of plush cushions and premium upholstery, adding sophistication to your home. The U-shape design enhances visual appeal and maximizes seating options, redefining your living experience where comfort meets cutting-edge design.",
+    text: "Introducing our U-shape sectional sofa, a fusion of tailored comfort and trendsetting design for modern living spaces. Immerse yourself in the luxurious feel of plush cushions with 40 density foam, washable fabric and premium upholstery, adding sophistication to your home. The U-shape design enhances visual appeal and maximizes seating options, redefining your living experience where comfort meets cutting-edge design.",
     image: USofaImg7,
   },
 ];
@@ -276,7 +276,7 @@ export const ISofa2 = [
 export const SofaBed1 = [
   {
     key: 1,
-    text: "Introducing our modern sofa cum bed, seamlessly blending elegance with functionality for contemporary living. Transform your space with this chic sofa by day and a comfortable bed by night. The clean lines, premium upholstery, and easy-to-use mechanism make it a stylish and versatile addition, while high-resilience foam cushions offer optimal comfort. ",
+    text: "Introducing our modern sofa cum bed made of Meghuni Wood, seamlessly blending elegance with functionality for contemporary living. Transform your space with this chic sofa by day and a comfortable bed by night. The clean lines, premium upholstery, and easy-to-use mechanism make it a stylish and versatile addition, while high-resilience 40 density foam cushions with washable fabric offer optimal comfort. ",
     image: SofaBedImg1,
   },
 ];
@@ -291,7 +291,7 @@ export const SofaBed2 = [
 export const Wardrobe1 = [
   {
     key: 1,
-    text: "Introducing our modern sliding door wardrobe, a sleek solution for contemporary storage with a touch of sophistication. The intelligently designed interior features adjustable shelves, hanging rods, and ample compartments for organized storage. Crafted with precision and premium materials, this wardrobe seamlessly combines form and function.",
+    text: "Introducing our modern sliding door wardrobe made of Meghuni Wood, a sleek solution for contemporary storage with a touch of sophistication. The intelligently designed interior features adjustable shelves, hanging rods, and ample compartments for organized storage. Crafted with precision and premium materials, this wardrobe seamlessly combines form and function.",
     image: WardrobeImg5,
   },
 ];
@@ -306,7 +306,7 @@ export const Wardrobe2 = [
 export const BoxBed1 = [
   {
     key: 1,
-    text: "Unveil comfort and organization with our luxurious storage box sofa bed—a multifunctional marvel seamlessly blending into your living space. By day, enjoy a plush sofa, and by night, a cozy bed, all while providing ample storage within the integrated box design. Crafted with premium materials, this sofa bed ensures durability and timeless elegance, making it a focal point in any room.",
+    text: "Unveil comfort and organization with our luxurious storage box sofa bed—a multifunctional marvel seamlessly blending into your living space made of highly demanding Meghuni Wood. By day, enjoy a plush sofa, and by night, a cozy bed, all while providing ample storage within the integrated box design. Crafted with premium materials, this sofa bed ensures durability and timeless elegance, making it a focal point in any room.",
     image: BoxBedImg5,
   },
 ];
@@ -328,7 +328,7 @@ export const Headboard1 = [
 export const Headboard2 = [
   {
     key: 2,
-    text: "Redefine your bedroom with our modern wooden headboard, designed to complement contemporary interiors. Crafted from high-quality wood, its minimalist design adds sophistication to your sleeping haven. The natural finish highlights the wood grain, creating a warm ambiance.",
+    text: "Redefine your bedroom with our modern wooden headboard made of Meghuni Wood, designed to complement contemporary interiors. Crafted from high-quality wood, its minimalist design adds sophistication to your sleeping haven. The natural finish highlights the wood grain, creating a warm ambiance.",
     image: HeadboardImg3,
   },
 ];
@@ -336,14 +336,14 @@ export const Headboard2 = [
 export const DiningChair1 = [
   {
     key: 1,
-    text: "Elevate your dining space with our contemporary upholstered dining chair, a blend of elegance and comfort. Meticulously crafted with premium upholstery for sophistication and a luxurious seating experience. The sleek design and high-quality materials make it a stylish addition to any modern dining setting.",
+    text: "Elevate your dining space with our contemporary upholstered dining chair made of Meghuni Wood, a blend of elegance and comfort. Meticulously crafted with premium upholstery for sophistication and a luxurious seating experience. The sleek design and high-quality materials make it a stylish addition to any modern dining setting.",
     image: DiningChairImg5,
   },
 ];
 export const DiningChair2 = [
   {
     key: 2,
-    text: "Redefine your dining experience with our modern wooden dining chair, exuding timeless charm and versatility. Crafted from high-quality wood, its minimalist design effortlessly complements various dining room aesthetics. The natural finish highlights the wood grain's beauty, creating a warm and inviting atmosphere for gatherings.",
+    text: "Redefine your dining experience with our modern wooden dining chair, exuding timeless charm and versatility. Crafted from high-quality Meghuni Wood, its minimalist design effortlessly complements various dining room aesthetics. The natural finish highlights the wood grain's beauty, creating a warm and inviting atmosphere for gatherings.",
     image: DiningChairImg6,
   },
 ];
@@ -381,7 +381,7 @@ export const HighBackChair2 = [
 export const Mattress1 = [
   {
     key: 1,
-    text: "Transform your sleep experience with our luxury memory foam mattress, a haven of indulgent comfort crafted for restful nights. This mattress contours to your body, providing personalized support and relieving pressure points. Premium memory foam technology ensures a blissful night's sleep, while the breathable cover enhances airflow for a cool and refreshing rest.",
+    text: "Transform your sleep experience with our luxury memory foam mattress with washable and sweat fabric, a haven of indulgent comfort crafted for restful nights. This mattress contours to your body, providing personalized support and relieving pressure points. Premium memory foam technology ensures a blissful night's sleep, while the breathable cover enhances airflow for a cool and refreshing rest.",
     image: MattressImg7,
   },
 ];
@@ -396,7 +396,7 @@ export const Mattress2 = [
 export const TvCabinet1 = [
   {
     key: 1,
-    text: "Explore our exquisite wooden TV cabinet collection, combining timeless elegance with durable craftsmanship. Enhance your living space with versatile storage solutions and stylish design. Discover the perfect blend of functionality and aesthetics for a sophisticated home entertainment experience.",
+    text: "Explore our exquisite wooden TV cabinet collection made of Meghuni Wood, combining timeless elegance with durable craftsmanship. Enhance your living space with versatile storage solutions and stylish design. Discover the perfect blend of functionality and aesthetics for a sophisticated home entertainment experience.",
     image: TvCabinetImg2,
   },
 ];
@@ -419,7 +419,7 @@ export const CarbonSofa1 = [
 export const CarbonSofa2 = [
   {
     key: 2,
-    text: "Explore the epitome of comfort and style with our carbon sofas, meticulously crafted for a sleek, modern look. Immerse yourself in the plush embrace of high-quality materials, creating a sophisticated centerpiece for your living room.",
+    text: "Explore the epitome of comfort and style with our carbon sofas, meticulously crafted for a sleek, modern look. Immerse yourself in the plush embrace of high-quality materials of Washable and sweat fabric, creating a sophisticated centerpiece for your living room.",
     image: CarbonSofaImg3,
   },
 ];
@@ -427,7 +427,7 @@ export const CarbonSofa2 = [
 export const BossChair1 = [
   {
     key: 1,
-    text: "Redefine your office with our executive boss chair, a pinnacle of sophistication and comfort. Precision-crafted for modern workplaces, our boss chairs offer optimal support and a stylish design, enhancing your professional environment.",
+    text: "Redefine your office with our executive boss chair, a pinnacle of sophistication and comfort with premium leather . Precision-crafted for modern workplaces, our boss chairs offer optimal support and a stylish design, enhancing your professional environment.",
     image: BossChairImg2,
   },
 ];
