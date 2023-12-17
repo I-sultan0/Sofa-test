@@ -34,9 +34,9 @@ import HydraulicSofaImg1 from "../assets/HydraulicSofa/1.webp";
 import HydraulicSofaImg2 from "../assets/HydraulicSofa/2.webp";
 import HydraulicSofaImg3 from "../assets/HydraulicSofa/3.webp";
 import HydraulicSofaImg4 from "../assets/HydraulicSofa/4.webp";
-import HydraulicSofaImg5 from "../assets/HydraulicSofa/5.webp";
-import HydraulicSofaImg6 from "../assets/HydraulicSofa/6.webp";
-import HydraulicSofaImg7 from "../assets/HydraulicSofa/7.webp";
+import HydraulicSofaImg5 from "../assets/HydraulicSofa/5.jpg";
+import HydraulicSofaImg6 from "../assets/HydraulicSofa/6.jpg";
+import HydraulicSofaImg7 from "../assets/HydraulicSofa/7.jpg";
 
 import SofaBedImg1 from "../assets/SofaCumBed/1.jpg";
 import SofaBedImg2 from "../assets/SofaCumBed/2.jpg";
