@@ -30,7 +30,7 @@ import USofaImg5 from "../assets/USofa/5.jpg";
 import USofaImg6 from "../assets/USofa/6.jpg";
 import USofaImg7 from "../assets/USofa/7.jpg";
 
-import HydraulicSofaImg1 from "../assets/HydraulicSofa/1.webp";
+import HydraulicSofaImg1 from "../assets/HydraulicSofa/1.png";
 import HydraulicSofaImg2 from "../assets/HydraulicSofa/2.webp";
 import HydraulicSofaImg3 from "../assets/HydraulicSofa/3.webp";
 import HydraulicSofaImg4 from "../assets/HydraulicSofa/4.webp";
